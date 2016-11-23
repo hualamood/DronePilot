@@ -3,7 +3,7 @@
 
 Autonomous Pilot software that runs on companion computers. 
 
-A modification of a flight stack written by alduxvm with the send-commands.py file added
+A modification of a flight stack written by alduxvm with the send-commands.py and send-arguments.py file added
 
 Oiginal code:
 https://github.com/alduxvm/DronePilot

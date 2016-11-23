@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-"""send-commands.py: Reads a commands given by the user and continuously sends the information via UDP."""
+"""send-commands.py: Reads commands given by the user and continuously sends the information via UDP."""
 
 __original_author__ = "Aldo Vargas"
 __author__ = "Hussain Alamood"
